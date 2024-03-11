@@ -4,4 +4,4 @@ db/*.db
 .env
 .env.test
 .eslintignore
-dist
+build
